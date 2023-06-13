@@ -1,0 +1,73 @@
+ul{
+    list-style-type: square;
+background-color: #183838;
+    overflow: hidden;
+
+}
+
+ol{
+   float: right;
+     width: 120px;
+    padding: 15px;
+
+
+}
+li,a:hover {
+
+    padding: 15px;
+    display: inline;
+    color: aqua;
+    font-family: Chandas;
+    list-style: none;
+    display: inline;
+    background-color: #131945;
+    color: aqua;
+
+
+}
+li a:hover{
+    background-color: #0aefd5;
+}
+.fruits{
+    background-color: #099265;
+border: 2px dotted #0c102e;
+    margin: 8px;
+    padding: 10px;
+    text-align: center;
+    text-decoration-color: red;
+}
+.cars{
+    background-color: saddlebrown;
+    border: 12px solid blue;
+    text-align: justify;
+    padding: 15px;
+
+
+}
+.FRUITS{
+    background-color: forestgreen;
+    border: 10px dot-dot-dash black;
+    text-align: left;
+    text-decoration: black;
+    text-decoration: underline;
+    padding: 8px inherit;
+}
+#matunda{
+    background-color: #099265;
+    border: 4px dashed red;
+    padding: 14px;
+    margin: 12px;
+       text-align: center;
+}
+#magari{
+    border: 6px solid #0022ff;
+    padding: 14px;
+    margin: 12px;
+    text-align: justify;
+}
+button{
+    width: 50%;
+    aspect-ratio: 3/2;
+    object-fit: fill;
+    mix-blend-mode: color;
+}

@@ -1,0 +1,8 @@
+ul{
+font-family: "JetBrains Mono ExtraLight";
+    border: 5px dot-dash blue;
+background-image: url("img/background.jpeg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

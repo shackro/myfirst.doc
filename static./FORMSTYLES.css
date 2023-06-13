@@ -1,0 +1,53 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    border: #0c102e 4px solid;
+border-radius: 5px;
+    background: black;
+
+}
+.container h2{
+    text-align: center;
+ }
+ .form-group{
+     margin-top: 12px;
+ }
+ .form-group la{
+     display: block;
+     margin-bottom: 5px;
+     font-weight: bold;
+     font-family: Chandas;
+ }
+ .form-group input{
+     width: 80%;
+     padding: 10px;
+     border-radius: 5px;
+     border: 3px solid blue;
+     font-family: Ubuntu;
+
+ }
+ .form-group button{
+     width: 70%;
+     padding: 10px;
+     background-color: darkblue;
+     color: white;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+ }
+ .form-group button:hover{
+     background-color: #830606;
+ }
+ h2{
+     color: aqua;
+     text-decoration: red underline ;
+     text-align: center;
+ }
+#class{
+color: white;
+    background-image: url("ai3.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
